@@ -1,0 +1,9 @@
+name: ViaErrorHandler
+version: ${project.version}
+main: de.florianmichael.viaerrorhandler.ViaErrorHandler
+api-version: 1.13
+
+authors: [FlorianMichael/EnZaXD]
+website: https://github.com/FlorianMichael
+
+loadbefore: [ViaVersion]
